@@ -1,0 +1,2 @@
+# wsrmq
+websocket for rabbitmq
